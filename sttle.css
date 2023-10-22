@@ -1,0 +1,22 @@
+h1{
+    color: brown;
+}
+
+table{
+    color: black;
+}
+p.introduction { 
+    margin: 100px;
+  }
+.parent{
+    border: 4px solid red;
+}
+.child{
+    display: block;
+    /*width: 50%;
+    padding: 10px;
+    border: 10px solid green;*/
+}
+.child{
+    float: right;
+}
